@@ -1,0 +1,6 @@
+[
+    name: 'Org of mohamed Mehdi'
+    apiKey: 'MNs1a1L6tqO0DdSlk4FVg3KcjpUOZRD2LaZke8pt16U'
+    scripts:
+         'hackerNews.js': 'dist/index.js'
+]
